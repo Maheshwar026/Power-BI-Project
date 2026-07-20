@@ -3,7 +3,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black) 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-[View interactive dashboard here on the Power BI Service](https://Maheshwar026/Power)
+[View interactive dashboard here on the Power BI Service](https://Maheshwar026/PowerBIProject)
 
 
 ## 📌 Project Overview
