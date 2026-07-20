@@ -3,9 +3,6 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black) 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-[View interactive dashboard here on the Power BI Service](https://Maheshwar026/Power-BI-Project)
-
-
 ## 📌 Project Overview
 
 The **Data Jobs Dashboard** is an interactive Power BI project that analyzes job market trends in the data industry. It provides insights into job availability, salaries, job locations, hiring platforms, remote work opportunities, and employment types.
